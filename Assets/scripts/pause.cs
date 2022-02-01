@@ -45,7 +45,7 @@ Time.timeScale = timer;
      {
       ispuse = false;
       timer = 0;
-      Application.LoadLevel("SampleScene"); // здесь при нажатии на кнопку загружается другая сцена, вы можете изменить название сцены на свое
+      Application.LoadLevel("SampleScene"); // здесь при нажатии на кнопку загружается другая сцена
 
      }
    }
